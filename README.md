@@ -1,4 +1,4 @@
-# Tracker-AS
+# Try-asyncio
 Simple try-project for work with asyncio
 
 ### Docs
